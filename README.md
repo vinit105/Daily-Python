@@ -1,3 +1,6 @@
+[!note]
+For Better UI Run on browser.
+
 # $${\color{pink}Daily }$$ $${\color{pink}Python}$$
  Python Scripts That Will Automate Our Daily Tasks
 
