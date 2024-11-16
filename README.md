@@ -3,7 +3,7 @@
 
 Python, with its simple syntax and powerful libraries, is one of the best programming languages for creating automation scripts. 
 
-## Text Extract from Images
+## $${\color{yellow}Text}$$ $${\color{yellow}Extract}$$ $${\color{yellow} From }$$ $${\color{yellow}Images}$$
 Python can be used to extract text from images using the pytesseract library, which can be useful when you need to digitize printed content or extract text from scanned documents.
 
 ```
@@ -24,7 +24,7 @@ extracted_text = extract_text_from_image(image_path)
 print("Extracted Text:\n", extracted_text)
 
 ```
-## Automating Data Backup to Cloud
+##  $${\color{yellow}Automating}$$ $${\color{yellow}Backups}$$ $${\color{yellow}To}$$ $${\color{yellow}Google}$$ $${\color{yellow}Drive}$$ 
 Automating backups to cloud services like Google Drive is made possible with Python using libraries such as pydrive.
 
 ```
@@ -41,7 +41,7 @@ def backup_to_google_drive(file_path):
 
 file = '/path/to/your/file.txt' backup_to_google_drive(file)
 ```
-## Auto-Reply to Emails
+## $${\color{yellow}Auto-Replys}$$  $${\color{yellow}To}$$  $${\color{yellow}Emails}$$ 
 If you often receive emails and want to set up an auto-reply, then use the imaplib and smtplib libraries to automatically reply to emails:
 ```
 import imaplib
@@ -81,7 +81,7 @@ def send_email(subject, body, to_email):
 
 auto_reply()
 ```
-## Task Scheduler (Task Automation)
+## $${\color{yellow}Task}$$  $${\color{yellow}Scheduler}$$ $${\color{yellow}(Task Scheduler)}$$  
 Scheduling tasks can be done easily using the schedule library, which allows you to automate tasks like sending an email or running a backup script at specific times:
 ```
 import schedule
@@ -98,7 +98,7 @@ while True:
     time.sleep(1)
 ```
 
-## Batch Image Resizing
+## $${\color{yellow}Batch}$$ $${\color{yellow}Image}$$ $${\color{yellow}Resizing}$$
 If you need to resize images in bulk, Python makes it easy with the Pillow library.
 
 ```
@@ -127,7 +127,7 @@ async def resize_images(folder_path, width, height):
 folder = '/path/to/your/images'
 asyncio.run(resize_images(folder, 800, 600))
 ```
-## Task Tracker/Reminder.   
+## $${\color{yellow}Task}$$ $${\color{yellow}Reminder/Scheduler}$$.   
 Creating a task tracker or reminder system in Python can be accomplished using the datetime and asyncio modules.
 ```
 import asyncio
@@ -146,7 +146,7 @@ async def main():
 
 asyncio.run(main())
 ```
-## Auto-Generate Daily Reports
+## $${\color{yellow}Auto-Generate}$$ $${\color{yellow}Daily}$$ $${\color{yellow}Reports}$$
 Automate daily reports by using Python to collect data and format it into a report:
 ```
 import datetime
