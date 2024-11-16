@@ -1,4 +1,4 @@
-# Daily-Python
+# $${\color{blue}Daily Python}$$
  Python Scripts That Will Automate Our Daily Tasks
 
 Python, with its simple syntax and powerful libraries, is one of the best programming languages for creating automation scripts. 
