@@ -1,7 +1,7 @@
 > [!NOTE]
 > For Better UI Run on browser.
 
-<img srs="./python_image.jpeg" height="200" />
+<img src="./python_image.jpeg" height="200" />
 # $${\color{pink}Daily }$$ $${\color{pink}Python}$$
  Python Scripts That Will Automate Our Daily Tasks
 
